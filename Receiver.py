@@ -32,4 +32,8 @@ try:
 except Exception as e:
     print("❌ Security Alert! Data tampered or wrong key!")
 
+<<<<<<< HEAD
 conn.close()
+=======
+conn.close()
+>>>>>>> 2942f941331eac5d62594aa59f62954b741c12d1

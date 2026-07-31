@@ -24,4 +24,8 @@ payload = cipher.nonce + tag + ciphertext
 client_socket.send(payload)
 
 client_socket.close()
+<<<<<<< HEAD
 print("🚀 Encrypted transmission complete.")
+=======
+print("🚀 Encrypted transmission complete.")
+>>>>>>> 2942f941331eac5d62594aa59f62954b741c12d1
